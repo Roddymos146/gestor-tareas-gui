@@ -34,4 +34,4 @@ gestor-tareas-gui/
 │
 ├── main.py
 ├── README.md
-└── .gitignore
+└── Captura Interfaz GUI.png
